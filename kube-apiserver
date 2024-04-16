@@ -1,0 +1,93 @@
+* 
+* ==> Audit <==
+* |---------|---------------------|----------|---------------------|---------|---------------------|---------------------|
+| Command |        Args         | Profile  |        User         | Version |     Start Time      |      End Time       |
+|---------|---------------------|----------|---------------------|---------|---------------------|---------------------|
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 12:13 IST |                     |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 12:19 IST | 13 Feb 24 12:21 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 12:26 IST | 13 Feb 24 12:27 IST |
+| stop    |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 13:03 IST | 13 Feb 24 13:03 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 13:06 IST | 13 Feb 24 13:06 IST |
+| ip      |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 13:11 IST | 13 Feb 24 13:11 IST |
+| ip      |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 13:14 IST | 13 Feb 24 13:14 IST |
+| stop    |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 13 Feb 24 13:21 IST | 13 Feb 24 13:21 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 11:37 IST | 14 Feb 24 11:37 IST |
+| service | nginx-pes1ug21cs531 | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 11:42 IST |                     |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 11:48 IST | 14 Feb 24 11:49 IST |
+| stop    |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 12:18 IST | 14 Feb 24 12:18 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 12:19 IST | 14 Feb 24 12:20 IST |
+| ip      |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 12:23 IST | 14 Feb 24 12:23 IST |
+| service | nginx-pes1ug21cs527 | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 12:24 IST | 14 Feb 24 12:26 IST |
+| stop    |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 12:26 IST | 14 Feb 24 12:27 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 12:30 IST | 14 Feb 24 12:31 IST |
+| ip      |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 13:20 IST | 14 Feb 24 13:20 IST |
+| service | nginx-pes1ug21cs481 | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 13:20 IST | 14 Feb 24 13:21 IST |
+| stop    |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 14 Feb 24 13:21 IST | 14 Feb 24 13:22 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 09:10 IST |                     |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 09:11 IST | 19 Feb 24 09:12 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 09:15 IST | 19 Feb 24 09:16 IST |
+| stop    |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 10:09 IST | 19 Feb 24 10:09 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 10:11 IST | 19 Feb 24 10:26 IST |
+| ip      |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 10:30 IST | 19 Feb 24 10:30 IST |
+| service | nginx-pes1ug21cs532 | minikube | SANJU\Sanjana Gowda | v1.32.0 | 19 Feb 24 10:31 IST |                     |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 08 Apr 24 08:24 IST | 08 Apr 24 08:27 IST |
+| start   |                     | minikube | SANJU\Sanjana Gowda | v1.32.0 | 08 Apr 24 09:03 IST |                     |
+|---------|---------------------|----------|---------------------|---------|---------------------|---------------------|
+
+* 
+* ==> Last Start <==
+* Log file created at: 2024/04/08 09:03:43
+Running on machine: Sanju
+Binary: Built with gc go1.21.3 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0408 09:03:43.857493   13628 out.go:296] Setting OutFile to fd 68 ...
+I0408 09:03:43.857493   13628 out.go:348] isatty.IsTerminal(68) = true
+I0408 09:03:43.857493   13628 out.go:309] Setting ErrFile to fd 104...
+I0408 09:03:43.858490   13628 out.go:348] isatty.IsTerminal(104) = true
+W0408 09:03:43.871128   13628 root.go:314] Error reading config file at C:\Users\Sanjana Gowda\.minikube\config\config.json: open C:\Users\Sanjana Gowda\.minikube\config\config.json: The system cannot find the file specified.
+I0408 09:03:43.885861   13628 out.go:303] Setting JSON to false
+I0408 09:03:43.893205   13628 start.go:128] hostinfo: {"hostname":"Sanju","uptime":224223,"bootTime":1712323000,"procs":273,"os":"windows","platform":"Microsoft Windows 11 Home Single Language","platformFamily":"Standalone Workstation","platformVersion":"10.0.22631.3374 Build 22631.3374","kernelVersion":"10.0.22631.3374 Build 22631.3374","kernelArch":"x86_64","virtualizationSystem":"","virtualizationRole":"","hostId":"778399ca-0313-4062-bde8-822dfb4a85e4"}
+W0408 09:03:43.893205   13628 start.go:136] gopshost.Virtualization returned error: not implemented yet
+I0408 09:03:43.900022   13628 out.go:177] 😄  minikube v1.32.0 on Microsoft Windows 11 Home Single Language 10.0.22631.3374 Build 22631.3374
+I0408 09:03:43.902174   13628 notify.go:220] Checking for updates...
+I0408 09:03:43.902751   13628 config.go:182] Loaded profile config "minikube": Driver=docker, ContainerRuntime=docker, KubernetesVersion=v1.28.3
+I0408 09:03:43.903257   13628 driver.go:378] Setting default libvirt URI to qemu:///system
+W0408 09:03:49.929016   13628 docker.go:169] docker version returned error: deadline exceeded running "docker version --format {{.Server.Os}}-{{.Server.Version}}:{{.Server.Platform.Name}}": exit status 1
+I0408 09:03:49.930074   13628 out.go:177] ✨  Using the docker driver based on existing profile
+I0408 09:03:49.932739   13628 start.go:298] selected driver: docker
+I0408 09:03:49.932739   13628 start.go:902] validating driver "docker" against &{Name:minikube KeepContext:false EmbedCerts:false MinikubeISO: KicBaseImage:gcr.io/k8s-minikube/kicbase:v0.0.42@sha256:d35ac07dfda971cabee05e0deca8aeac772f885a5348e1a0c0b0a36db20fcfc0 Memory:2200 CPUs:2 DiskSize:20000 VMDriver: Driver:docker HyperkitVpnKitSock: HyperkitVSockPorts:[] DockerEnv:[] ContainerVolumeMounts:[] InsecureRegistry:[] RegistryMirror:[] HostOnlyCIDR:192.168.59.1/24 HypervVirtualSwitch: HypervUseExternalSwitch:false HypervExternalAdapter: KVMNetwork:default KVMQemuURI:qemu:///system KVMGPU:false KVMHidden:false KVMNUMACount:1 APIServerPort:0 DockerOpt:[] DisableDriverMounts:false NFSShare:[] NFSSharesRoot:/nfsshares UUID: NoVTXCheck:false DNSProxy:false HostDNSResolver:true HostOnlyNicType:virtio NatNicType:virtio SSHIPAddress: SSHUser:root SSHKey: SSHPort:22 KubernetesConfig:{KubernetesVersion:v1.28.3 ClusterName:minikube Namespace:default APIServerName:minikubeCA APIServerNames:[] APIServerIPs:[] DNSDomain:cluster.local ContainerRuntime:docker CRISocket: NetworkPlugin:cni FeatureGates: ServiceCIDR:10.96.0.0/12 ImageRepository: LoadBalancerStartIP: LoadBalancerEndIP: CustomIngressCert: RegistryAliases: ExtraOptions:[] ShouldLoadCachedImages:true EnableDefaultCNI:false CNI: NodeIP: NodePort:8443 NodeName:} Nodes:[{Name: IP:192.168.49.2 Port:8443 KubernetesVersion:v1.28.3 ContainerRuntime:docker ControlPlane:true Worker:true}] Addons:map[default-storageclass:true storage-provisioner:true] CustomAddonImages:map[] CustomAddonRegistries:map[] VerifyComponents:map[apiserver:true system_pods:true] StartHostTimeout:6m0s ScheduledStop:<nil> ExposedPorts:[] ListenAddress: Network: Subnet: MultiNodeRequested:false ExtraDisks:0 CertExpiration:26280h0m0s Mount:false MountString:C:\Users\Sanjana Gowda:/minikube-host Mount9PVersion:9p2000.L MountGID:docker MountIP: MountMSize:262144 MountOptions:[] MountPort:0 MountType:9p MountUID:docker BinaryMirror: DisableOptimizations:false DisableMetrics:false CustomQemuFirmwarePath: SocketVMnetClientPath: SocketVMnetPath: StaticIP: SSHAuthSock: SSHAgentPID:0 AutoPauseInterval:1m0s GPUs:}
+I0408 09:03:49.933261   13628 start.go:913] status for docker: {Installed:true Healthy:false Running:false NeedsImprovement:false Error:exit status 1
+deadline exceeded running "docker version --format {{.Server.Os}}-{{.Server.Version}}:{{.Server.Platform.Name}}"
+k8s.io/minikube/pkg/minikube/registry/drvs/docker.glob..func1
+	/app/pkg/minikube/registry/drvs/docker/docker.go:165
+k8s.io/minikube/pkg/minikube/registry/drvs/docker.status
+	/app/pkg/minikube/registry/drvs/docker/docker.go:98
+k8s.io/minikube/pkg/minikube/registry.Status
+	/app/pkg/minikube/registry/global.go:145
+k8s.io/minikube/pkg/minikube/driver.Status
+	/app/pkg/minikube/driver/driver.go:361
+k8s.io/minikube/cmd/minikube/cmd.selectDriver
+	/app/cmd/minikube/cmd/start.go:692
+k8s.io/minikube/cmd/minikube/cmd.runStart
+	/app/cmd/minikube/cmd/start.go:207
+github.com/spf13/cobra.(*Command).execute
+	/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:944
+github.com/spf13/cobra.(*Command).ExecuteC
+	/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:1068
+github.com/spf13/cobra.(*Command).Execute
+	/go/pkg/mod/github.com/spf13/cobra@v1.7.0/command.go:992
+k8s.io/minikube/cmd/minikube/cmd.Execute
+	/app/cmd/minikube/cmd/root.go:174
+main.main
+	/app/cmd/minikube/main.go:95
+runtime.main
+	/usr/local/go/src/runtime/proc.go:267
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1650 Reason:PROVIDER_DOCKER_DEADLINE_EXCEEDED Fix:Restart the Docker service Doc:https://minikube.sigs.k8s.io/docs/drivers/docker/ Version:}
+I0408 09:03:49.935874   13628 out.go:177] 
+W0408 09:03:49.937613   13628 out.go:239] 💣  Exiting due to PROVIDER_DOCKER_NOT_RUNNING: deadline exceeded running "docker version --format <no value>-<no value>:<no value>": exit status 1
+W0408 09:03:49.938760   13628 out.go:239] 💡  Suggestion: Restart the Docker service
+W0408 09:03:49.939465   13628 out.go:239] 📘  Documentation: https://minikube.sigs.k8s.io/docs/drivers/docker/
+I0408 09:03:49.941071   13628 out.go:177] 
+
+* 
